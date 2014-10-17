@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zmr:home|Door43 (zmr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zmr|d43-zmr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zmr/archive/master.zip|d43-zmr.zip]]
+
+**Recent Changes**
+{{changes>ns = zmr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zmr|Ethnologue data]]
+
